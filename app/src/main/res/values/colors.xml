@@ -7,4 +7,12 @@
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+
+    <color name = "NotesColor1">#FF6263 </color>
+    <color name = "NotesColor2">#23C4ED </color>
+    <color name = "NotesColor3">#38CC77 </color>
+    <color name = "NotesColor4">#D9D55B </color>
+    <color name = "NotesColor5">#318B01 </color>
+    <color name = "NotesColor6">#D345D0 </color>
+
 </resources>
