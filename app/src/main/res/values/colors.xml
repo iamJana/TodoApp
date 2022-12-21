@@ -14,5 +14,6 @@
     <color name = "NotesColor4">#D9D55B </color>
     <color name = "NotesColor5">#318B01 </color>
     <color name = "NotesColor6">#D345D0 </color>
+    <color name="grey">#4A4F51</color>
 
 </resources>
